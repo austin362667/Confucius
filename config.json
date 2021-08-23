@@ -1,17 +1,11 @@
 {
   "base_url": "https://call-confucius.netlify.app/",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Call Confucius",
+  "site_description": "Talk to an expert to ask for advice through 5 minutes voice call ?",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "顧問",
+    "諮詢",
+    "電話"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
